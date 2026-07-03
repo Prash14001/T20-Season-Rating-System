@@ -1,9 +1,6 @@
-# T20-Season-Rating-System
+# 🏏 T20 Season Rating System
 A Python-based cricket analytics project that generates season-wise batting and bowling ratings from ball-by-ball IPL data.
 Dataset: Ball-by-ball IPL data (not included in this repository). The project is designed to process compatible ball-by-ball datasets and generate season-wise batting and bowling metrics and ratings.
-# 🏏 T20 Season Rating System
-
-> **A Python-based Cricket Analytics Project for Generating Season-wise Batting and Bowling Ratings from Ball-by-Ball IPL Data**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
