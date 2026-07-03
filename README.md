@@ -288,4 +288,3 @@ This project was developed as a personal cricket analytics initiative to explore
 
 ---
 
-## ⭐ If you found this project interesting, consider giving it a star on GitHub!
