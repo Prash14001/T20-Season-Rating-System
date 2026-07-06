@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+# Ignore datasets
+ipl_JSON/
+
+# Ignore generated outputs
+outputs/*.csv
+
+# VS Code settings
+.vscode/
+
+# Optional: Ignore ZIP files
+*.zip
