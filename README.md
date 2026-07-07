@@ -119,11 +119,11 @@ To ensure fair comparison, only qualified players are included in the rating sys
 
 ### Batting
 
-Minimum balls faced during the season.
+Minimum 100 balls faced during the season.
 
 ### Bowling
 
-Minimum balls bowled during the season.
+Minimum 120 balls bowled during the season.
 
 (Players not meeting the qualification criteria are excluded from the rating calculations.)
 
